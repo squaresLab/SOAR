@@ -1,0 +1,1 @@
+df0 <- input1 %>% filter(Survived == 0) %>% group_by(Pclass) %>% summarise(n = n())

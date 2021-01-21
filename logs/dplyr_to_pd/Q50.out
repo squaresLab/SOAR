@@ -1,0 +1,45 @@
+[error] [2021-01-20 18:32:03.973447] Could not load <commons.library_api.Argument object at 0x7eff174b7b50>
+[error] [2021-01-20 18:32:03.974057] Could not load <commons.library_api.Argument object at 0x7eff174b7490>
+[error] [2021-01-20 18:32:03.975909] Could not load <commons.library_api.Argument object at 0x7eff174a42b0>
+[info] [2021-01-20 18:32:04.026649] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+<string>:1: FutureWarning: The 'slice_shift' method is deprecated and will be removed in a future version. You can use DataFrame/Series.shift instead
+<string>:1: FutureWarning: the 'fname'' keyword is deprecated, use 'path' instead
+<string>:1: FutureWarning: tshift is deprecated and will be removed in a future version. Please use shift instead.
+[info] [2021-01-20 18:32:45.250175] Success!
+[info] [2021-01-20 18:32:45.250400] Avg Rank 51.75
+[info] [2021-01-20 18:32:45.250627] Synthesis time: 6.945393085479736
+[info] [2021-01-20 18:32:45.250733] lambda x: x.groupby(by=['Nationality'])
+[info] [2021-01-20 18:32:45.250733] lambda x: x.mean()[['Overall']]
+[info] [2021-01-20 18:32:45.250733] lambda x: x.head(n=10)
+[info] [2021-01-20 18:32:45.250733] lambda x: x.sort_values(by=['Overall'],axis=0,ascending=False)
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 7 entries, 0 to 6
+Data columns (total 2 columns):
+ #   Column       Non-Null Count  Dtype  
+---  ------       --------------  -----  
+ 0   Nationality  7 non-null      object 
+ 1   Overall      7 non-null      float64
+dtypes: float64(1), object(1)
+memory usage: 240.0+ bytes
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+
+[error] [2021-01-20 18:32:48.843078] Could not load <commons.library_api.Argument object at 0x7ff446c4cf40>
+[error] [2021-01-20 18:32:48.843652] Could not load <commons.library_api.Argument object at 0x7ff446c4c610>
+[error] [2021-01-20 18:32:48.845602] Could not load <commons.library_api.Argument object at 0x7ff446c19f70>
+[info] [2021-01-20 18:32:48.896464] Loading Glove Model
+[error] [2021-01-20 18:33:20.941659] Could not load <commons.library_api.Argument object at 0x7ff444619b80>
+[error] [2021-01-20 18:33:20.942274] Could not load <commons.library_api.Argument object at 0x7ff4402a0100>
+[error] [2021-01-20 18:33:20.949199] Could not load <commons.library_api.Argument object at 0x7ff4402a5340>
+[info] [2021-01-20 18:33:21.028654] Avg Rank GLOVE 51.75
+[info] [2021-01-20 18:33:21.028813] Avg Rank TFIDF 75.25
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

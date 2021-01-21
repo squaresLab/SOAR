@@ -1,0 +1,34 @@
+[error] [2021-01-20 18:21:35.640569] Could not load <commons.library_api.Argument object at 0x7f7da2c5d760>
+[error] [2021-01-20 18:21:35.641254] Could not load <commons.library_api.Argument object at 0x7f7da2c5dbe0>
+[error] [2021-01-20 18:21:35.643088] Could not load <commons.library_api.Argument object at 0x7f7da2c45550>
+[info] [2021-01-20 18:21:35.695075] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2021-01-20 18:22:11.580764] Success!
+[info] [2021-01-20 18:22:11.580908] Avg Rank 4.2
+[info] [2021-01-20 18:22:11.581045] Synthesis time: 3.1591153144836426
+[info] [2021-01-20 18:22:11.581148] lambda x: x.convert_dtypes()
+[info] [2021-01-20 18:22:11.581148] lambda x: x.groupby(by=['Nationality'])
+[info] [2021-01-20 18:22:11.581148] lambda x: x.sum()[['Number']]
+[info] [2021-01-20 18:22:11.581148] lambda x: x.head(n=10)
+[info] [2021-01-20 18:22:11.581148] lambda x: x.mul(other=1)
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+
+[error] [2021-01-20 18:22:14.463591] Could not load <commons.library_api.Argument object at 0x7fec4d372610>
+[error] [2021-01-20 18:22:14.464174] Could not load <commons.library_api.Argument object at 0x7fec4d372f70>
+[error] [2021-01-20 18:22:14.466078] Could not load <commons.library_api.Argument object at 0x7fec4d3513d0>
+[info] [2021-01-20 18:22:14.517199] Loading Glove Model
+[error] [2021-01-20 18:22:47.298812] Could not load <commons.library_api.Argument object at 0x7fec4698a460>
+[error] [2021-01-20 18:22:47.299872] Could not load <commons.library_api.Argument object at 0x7fec4698a9a0>
+[error] [2021-01-20 18:22:47.304356] Could not load <commons.library_api.Argument object at 0x7fec46991be0>
+[info] [2021-01-20 18:22:47.406276] Avg Rank GLOVE 4.2
+[info] [2021-01-20 18:22:47.406452] Avg Rank TFIDF 81.0
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

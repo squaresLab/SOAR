@@ -1,0 +1,2 @@
+file_path,api_count,code
+docs/programming/electron/app/scripts/hello_world.py,0,b'import sys\n\nmsg_from_js = sys.stdin.read()\n\nprint(msg_from_js)'

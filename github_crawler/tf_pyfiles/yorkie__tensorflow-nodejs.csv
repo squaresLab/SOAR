@@ -1,0 +1,2 @@
+file_path,api_count,code
+test/fixtures/gen_graph_def.py,3,"b'import tensorflow as tf\nimport os\n\ntmpdir = os.path.dirname(os.path.realpath(__file__))\n\ndef main():\n  v = tf.Variable(1000, name=\'my_variable\')\n  sess = tf.Session()\n  tf.train.write_graph(sess.graph_def, tmpdir, \'graph_def.pbtxt\', as_text=False)\n\nif __name__ == ""__main__"":\n    main()\n'"

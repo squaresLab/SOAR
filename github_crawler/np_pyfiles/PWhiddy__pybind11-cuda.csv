@@ -1,0 +1,2 @@
+file_path,api_count,code
+test_mul.py,3,"b'import gpu_library\nimport numpy as np\nimport time\n\nsize = 100000000\narr1 = np.linspace(1.0,100.0, size)\narr2 = np.linspace(1.0,100.0, size)\n\nruns = 10\nfactor = 3.0\n\nt0 = time.time()\nfor _ in range(runs):\n    gpu_library.multiply_with_scalar(arr1, factor)\nprint(""gpu time: "" + str(time.time()-t0))\nt0 = time.time()\nfor _ in range(runs):\n    arr2 = arr2 * factor\nprint(""cpu time: "" + str(time.time()-t0))\n\nprint(""results match: "" + str(np.allclose(arr1,arr2)))\n'"

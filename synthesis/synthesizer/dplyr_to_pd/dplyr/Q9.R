@@ -1,0 +1,1 @@
+df0 <- input1 %>% filter(Survived == 1) %>% group_by(Sex) %>% summarise(n())

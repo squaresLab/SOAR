@@ -1,0 +1,24 @@
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 17:48:44.933006] Success!
+[info] [2021-01-21 17:48:44.933530] Avg Rank 2.272727272727273
+[info] [2021-01-21 17:48:44.944000] Synthesis time: 107.87850522994995
+[info] [2021-01-21 17:48:44.944177] self.before_0 = lambda x: x.long()
+[info] [2021-01-21 17:48:44.944177] self.var37 = torch.nn.Embedding(50,10)
+[info] [2021-01-21 17:48:44.944177] self.before_2 = lambda x: x.permute(0,1,2)
+[info] [2021-01-21 17:48:44.944177] self.var5392 = torch.nn.Conv1d(10,64,3,stride=1,padding=0)
+[info] [2021-01-21 17:48:44.944177] self.var5393 = torch.nn.ReLU()
+[info] [2021-01-21 17:48:44.944177] self.before_5 = lambda x: x.permute(0,1,2)
+[info] [2021-01-21 17:48:44.944177] self.var9908 = torch.nn.Conv1d(64,64,3,stride=1,padding=0)
+[info] [2021-01-21 17:48:44.944177] self.var9909 = torch.nn.ReLU()
+[info] [2021-01-21 17:48:44.944177] self.var9913 = torch.nn.MaxPool1d(6,stride=2,padding=2)
+[info] [2021-01-21 17:48:44.944177] self.var9917 = lambda x: torch.flatten(x,1)
+[info] [2021-01-21 17:48:44.944177] self.var10376 = torch.nn.Linear(192,100)
+[info] [2021-01-21 17:48:44.944177] self.var10377 = torch.nn.ReLU()
+[info] [2021-01-21 17:48:44.944177] self.var10663 = torch.nn.Linear(100,10)
+[info] [2021-01-21 17:48:44.944177] self.var10664 = torch.nn.Softmax(dim=-1)
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 17:48:50.963145] Avg Rank 2.272727272727273

@@ -1,0 +1,3 @@
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')

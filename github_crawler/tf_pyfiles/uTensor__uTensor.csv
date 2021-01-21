@@ -1,0 +1,2 @@
+file_path,api_count,code
+TESTS/operators/Softmax/generate_test_data.py,4,"b'import numpy as np\n\nimport tensorflow as tf\nfrom utensor_cgen.utils import save_idx\n\ngraph = tf.Graph()\nwith graph.as_default():\n    tf_rand_arr = tf.constant(np.random.rand(10, 5), dtype=tf.float32)\n    tf_softmax = tf.nn.softmax(tf_rand_arr, name=""softmax"")\n\nwith tf.Session(graph=graph) as sess:\n    np_arr = tf_rand_arr.eval()\n    np_softmax = tf_softmax.eval()\n\nsave_idx(np_arr, ""TESTS/constants/in/logits.idx"")\nsave_idx(np_softmax, ""TESTS/constants/out/ref_sortmax.idx"")\n'"

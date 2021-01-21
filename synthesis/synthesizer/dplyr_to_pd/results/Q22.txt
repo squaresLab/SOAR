@@ -1,0 +1,105 @@
+[error] [2021-01-15 11:51:01.095839] Could not load <commons.library_api.Argument object at 0x7fa829a45a00>
+[error] [2021-01-15 11:51:01.096499] Could not load <commons.library_api.Argument object at 0x7fa829a28cd0>
+[error] [2021-01-15 11:51:01.098400] Could not load <commons.library_api.Argument object at 0x7fa8299f06d0>
+[info] [2021-01-15 11:51:01.151702] Loading Glove Model
+[debug] [2021-01-15 11:51:35.201551] Done. 400000 words loaded!
+[info] [2021-01-15 11:51:35.303692] Unknown word starwars: break into star and wars
+[info] [2021-01-15 11:51:35.303937] Unknown word recode: break into re and code
+[info] [2021-01-15 11:51:35.304071] Unknown word lag: break into l and ag
+[info] [2021-01-15 11:51:35.304202] Unknown word rowwise: break into row and wise
+[info] [2021-01-15 11:51:35.304346] Unknown word rename: break into re and name
+[info] [2021-01-15 11:51:35.304501] Unknown word assign: break into as and sign
+[info] [2021-01-15 11:51:35.304621] Unknown word transpose: break into trans and pose
+[info] [2021-01-15 11:51:35.304780] Unknown word markdown: break into mark and down
+[info] [2021-01-15 11:51:35.304919] Unknown word feather: break into feat and her
+[info] [2021-01-15 11:51:35.305116] Unknown word pickle: break into pick and le
+[info] [2021-01-15 11:51:35.305266] Unknown word json: break into j and son
+[info] [2021-01-15 11:51:35.305422] Unknown word bfill: break into b and fill
+[info] [2021-01-15 11:51:35.305520] Unknown word ffill: break into f and fill
+[info] [2021-01-15 11:51:35.305773] Unknown word boxplot: break into box and plot
+[info] [2021-01-15 11:51:35.305888] Unknown word kde: break into k and de
+[info] [2021-01-15 11:51:35.306084] Unknown word timestamp: break into time and stamp
+[info] [2021-01-15 11:51:35.306208] Unknown word tshift: break into t and shift
+[info] [2021-01-15 11:51:35.306308] Unknown word resample: break into re and sample
+[info] [2021-01-15 11:51:35.306411] Unknown word asof: break into as and of
+[info] [2021-01-15 11:51:35.306544] Unknown word xarray: break into x and array
+[info] [2021-01-15 11:51:35.306746] Unknown word swaplevel: break into swap and level
+[info] [2021-01-15 11:51:35.306870] Unknown word nsmallest: break into n and smallest
+[info] [2021-01-15 11:51:35.306973] Unknown word nlargest: break into n and largest
+[info] [2021-01-15 11:51:35.307076] Unknown word reorder: break into re and order
+[info] [2021-01-15 11:51:35.307195] Unknown word droplevel: break into drop and level
+[info] [2021-01-15 11:51:35.307309] Unknown word fillna: break into fill and na
+[info] [2021-01-15 11:51:35.307379] Unknown word dropna: break into drop and na
+[info] [2021-01-15 11:51:35.307501] Unknown word reset: break into re and set
+[info] [2021-01-15 11:51:35.307570] Unknown word rename: break into re and name
+[info] [2021-01-15 11:51:35.307668] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:51:35.307737] Unknown word rename: break into re and name
+[info] [2021-01-15 11:51:35.307822] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:51:35.307989] Unknown word prefix: break into pre and fix
+[info] [2021-01-15 11:51:35.308100] Unknown word nunique: break into n and unique
+[info] [2021-01-15 11:51:35.308242] Unknown word prod: break into p and rod
+[info] [2021-01-15 11:51:35.308360] Unknown word min: break into m and in
+[info] [2021-01-15 11:51:35.308630] Unknown word groupby: break into group and by
+[info] [2021-01-15 11:51:35.308782] Unknown word applymap: break into apply and map
+[info] [2021-01-15 11:51:35.308964] Unknown word radd: break into r and add
+[info] [2021-01-15 11:51:35.309074] Unknown word rsub: break into r and sub
+[info] [2021-01-15 11:51:35.309202] Unknown word div: break into d and iv
+[info] [2021-01-15 11:51:35.309359] Unknown word isin: break into is and in
+[info] [2021-01-15 11:51:35.309489] Unknown word lookup: break into look and up
+[info] [2021-01-15 11:51:35.309637] Unknown word iat: break into i and at
+[info] [2021-01-15 11:51:35.309788] Unknown word notna: break into not and na
+[info] [2021-01-15 11:51:35.309860] Unknown word isna: break into is and na
+[info] [2021-01-15 11:51:35.309986] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:51:35.310096] Unknown word astype: break into as and type
+[info] [2021-01-15 11:51:35.310191] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:51:35.310277] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:51:35.310402] Unknown word sortlevel: break into sort and level
+[info] [2021-01-15 11:51:35.310486] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:51:35.310592] Unknown word pad: break into p and ad
+[info] [2021-01-15 11:51:35.310694] Unknown word backfill: break into back and fill
+[info] [2021-01-15 11:51:35.310781] Unknown word irow: break into i and row
+[info] [2021-01-15 11:51:35.310879] Unknown word iget: break into i and get
+[info] [2021-01-15 11:51:35.311029] Unknown word ftype: break into f and type
+[info] [2021-01-15 11:51:35.311129] Unknown word dtype: break into d and type
+[info] [2021-01-15 11:51:35.311204] Unknown word ftypes: break into f and types
+[debug] [2021-01-15 11:51:35.356413] 299 out of 299 words in the vocab are also found in the pretrained embedding
+[debug] [2021-01-15 11:51:35.358388] Generating representation matrix complete!
+[info] [2021-01-15 11:51:36.312002] pandas.DataFrame.filter
+[info] [2021-01-15 11:51:36.322702] pandas.DataFrame.insert
+[info] [2021-01-15 11:51:38.235237] pandas.DataFrame.sample
+[info] [2021-01-15 11:51:38.266805] pandas.DataFrame.as_matrix
+[info] [2021-01-15 11:51:38.276295] pandas.DataFrame.load
+[info] [2021-01-15 11:51:38.291472] pandas.DataFrame.apply
+[info] [2021-01-15 11:51:38.309004] pandas.DataFrame
+[info] [2021-01-15 11:51:38.318951] pandas.DataFrame.sparse.density
+[info] [2021-01-15 11:51:38.328134] pandas.DataFrame.plot.density
+[info] [2021-01-15 11:51:38.337424] pandas.DataFrame.pipe
+[info] [2021-01-15 11:51:38.617937] pandas.DataFrame.transform
+[info] [2021-01-15 11:51:38.637472] pandas.DataFrame.convert_dtypes
+[info] [2021-01-15 11:51:38.689491] pandas.DataFrame.groupby
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2021-01-15 11:51:38.753304] pandas.DataFrame.sum
+[info] [2021-01-15 11:51:38.810785] pandas.DataFrame.droplevel
+[info] [2021-01-15 11:51:38.826492] pandas.DataFrame.last
+[info] [2021-01-15 11:51:38.840849] pandas.DataFrame.at_time
+[info] [2021-01-15 11:51:38.855554] pandas.DataFrame.head
+[info] [2021-01-15 11:51:38.887879] pandas.DataFrame.tz_localize
+[info] [2021-01-15 11:51:38.902912] pandas.DataFrame.combineMult
+[info] [2021-01-15 11:51:38.916950] pandas.DataFrame.mul
+[info] [2021-01-15 11:51:38.945237] Success!
+[info] [2021-01-15 11:51:38.945368] Avg Rank 4.2
+[info] [2021-01-15 11:51:38.945526] Synthesis time: 3.502181053161621
+[info] [2021-01-15 11:51:38.945599] lambda x: x.convert_dtypes()
+[info] [2021-01-15 11:51:38.945599] lambda x: x.groupby(by=['Nationality'])
+[info] [2021-01-15 11:51:38.945599] lambda x: x.sum()[['Number']]
+[info] [2021-01-15 11:51:38.945599] lambda x: x.head(n=10)
+[info] [2021-01-15 11:51:38.945599] lambda x: x.mul(other=1)
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+

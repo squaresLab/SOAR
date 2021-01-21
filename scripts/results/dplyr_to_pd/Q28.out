@@ -1,0 +1,16 @@
+[error] [2021-01-20 18:24:15.305188] Could not load <commons.library_api.Argument object at 0x7fcdf2c99fa0>
+[error] [2021-01-20 18:24:15.305682] Could not load <commons.library_api.Argument object at 0x7fcdf2c99340>
+[error] [2021-01-20 18:24:15.307189] Could not load <commons.library_api.Argument object at 0x7fcdf2c235b0>
+[info] [2021-01-20 18:24:15.354888] Loading Glove Model
+[error] [2021-01-20 18:26:15.533892] Could not load <commons.library_api.Argument object at 0x7f34f7e2aa90>
+[error] [2021-01-20 18:26:15.534448] Could not load <commons.library_api.Argument object at 0x7f34f7e4bdf0>
+[error] [2021-01-20 18:26:15.536320] Could not load <commons.library_api.Argument object at 0x7f34f7e10790>
+[info] [2021-01-20 18:26:15.587259] Loading Glove Model
+[error] [2021-01-20 18:26:47.996922] Could not load <commons.library_api.Argument object at 0x7f34f572eeb0>
+[error] [2021-01-20 18:26:47.997574] Could not load <commons.library_api.Argument object at 0x7f34f1434430>
+[error] [2021-01-20 18:26:47.999196] Could not load <commons.library_api.Argument object at 0x7f34f1439670>
+[info] [2021-01-20 18:26:48.110872] Avg Rank GLOVE 48.6
+[info] [2021-01-20 18:26:48.111147] Avg Rank TFIDF 138.0
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

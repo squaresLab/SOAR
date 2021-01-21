@@ -1,0 +1,83 @@
+[error] [2021-01-15 11:55:51.197769] Could not load <commons.library_api.Argument object at 0x7f7e09a1e070>
+[error] [2021-01-15 11:55:51.198337] Could not load <commons.library_api.Argument object at 0x7f7e09a32b80>
+[error] [2021-01-15 11:55:51.200181] Could not load <commons.library_api.Argument object at 0x7f7e099bc280>
+[info] [2021-01-15 11:55:51.253470] Loading Glove Model
+[debug] [2021-01-15 11:56:25.560065] Done. 400000 words loaded!
+[info] [2021-01-15 11:56:25.664165] Unknown word starwars: break into star and wars
+[info] [2021-01-15 11:56:25.664404] Unknown word recode: break into re and code
+[info] [2021-01-15 11:56:25.664558] Unknown word lag: break into l and ag
+[info] [2021-01-15 11:56:25.664703] Unknown word rowwise: break into row and wise
+[info] [2021-01-15 11:56:25.664834] Unknown word rename: break into re and name
+[info] [2021-01-15 11:56:25.664985] Unknown word assign: break into as and sign
+[info] [2021-01-15 11:56:25.665106] Unknown word transpose: break into trans and pose
+[info] [2021-01-15 11:56:25.665248] Unknown word markdown: break into mark and down
+[info] [2021-01-15 11:56:25.665391] Unknown word feather: break into feat and her
+[info] [2021-01-15 11:56:25.665582] Unknown word pickle: break into pick and le
+[info] [2021-01-15 11:56:25.665722] Unknown word json: break into j and son
+[info] [2021-01-15 11:56:25.665897] Unknown word bfill: break into b and fill
+[info] [2021-01-15 11:56:25.665997] Unknown word ffill: break into f and fill
+[info] [2021-01-15 11:56:25.666255] Unknown word boxplot: break into box and plot
+[info] [2021-01-15 11:56:25.666385] Unknown word kde: break into k and de
+[info] [2021-01-15 11:56:25.666577] Unknown word timestamp: break into time and stamp
+[info] [2021-01-15 11:56:25.666700] Unknown word tshift: break into t and shift
+[info] [2021-01-15 11:56:25.666801] Unknown word resample: break into re and sample
+[info] [2021-01-15 11:56:25.666908] Unknown word asof: break into as and of
+[info] [2021-01-15 11:56:25.667033] Unknown word xarray: break into x and array
+[info] [2021-01-15 11:56:25.667181] Unknown word swaplevel: break into swap and level
+[info] [2021-01-15 11:56:25.667305] Unknown word nsmallest: break into n and smallest
+[info] [2021-01-15 11:56:25.667408] Unknown word nlargest: break into n and largest
+[info] [2021-01-15 11:56:25.667516] Unknown word reorder: break into re and order
+[info] [2021-01-15 11:56:25.667633] Unknown word droplevel: break into drop and level
+[info] [2021-01-15 11:56:25.667747] Unknown word fillna: break into fill and na
+[info] [2021-01-15 11:56:25.667824] Unknown word dropna: break into drop and na
+[info] [2021-01-15 11:56:25.667938] Unknown word reset: break into re and set
+[info] [2021-01-15 11:56:25.668010] Unknown word rename: break into re and name
+[info] [2021-01-15 11:56:25.668102] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:56:25.668178] Unknown word rename: break into re and name
+[info] [2021-01-15 11:56:25.668263] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:56:25.668435] Unknown word prefix: break into pre and fix
+[info] [2021-01-15 11:56:25.668552] Unknown word nunique: break into n and unique
+[info] [2021-01-15 11:56:25.668694] Unknown word prod: break into p and rod
+[info] [2021-01-15 11:56:25.668813] Unknown word min: break into m and in
+[info] [2021-01-15 11:56:25.669058] Unknown word groupby: break into group and by
+[info] [2021-01-15 11:56:25.669202] Unknown word applymap: break into apply and map
+[info] [2021-01-15 11:56:25.669382] Unknown word radd: break into r and add
+[info] [2021-01-15 11:56:25.669493] Unknown word rsub: break into r and sub
+[info] [2021-01-15 11:56:25.669628] Unknown word div: break into d and iv
+[info] [2021-01-15 11:56:25.669784] Unknown word isin: break into is and in
+[info] [2021-01-15 11:56:25.669915] Unknown word lookup: break into look and up
+[info] [2021-01-15 11:56:25.670056] Unknown word iat: break into i and at
+[info] [2021-01-15 11:56:25.670169] Unknown word notna: break into not and na
+[info] [2021-01-15 11:56:25.670247] Unknown word isna: break into is and na
+[info] [2021-01-15 11:56:25.670371] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:56:25.670466] Unknown word astype: break into as and type
+[info] [2021-01-15 11:56:25.670564] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:56:25.670646] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:56:25.670768] Unknown word sortlevel: break into sort and level
+[info] [2021-01-15 11:56:25.670857] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:56:25.670952] Unknown word pad: break into p and ad
+[info] [2021-01-15 11:56:25.671073] Unknown word backfill: break into back and fill
+[info] [2021-01-15 11:56:25.671171] Unknown word irow: break into i and row
+[info] [2021-01-15 11:56:25.671271] Unknown word iget: break into i and get
+[info] [2021-01-15 11:56:25.671366] Unknown word ftype: break into f and type
+[info] [2021-01-15 11:56:25.671438] Unknown word dtype: break into d and type
+[info] [2021-01-15 11:56:25.671515] Unknown word ftypes: break into f and types
+[debug] [2021-01-15 11:56:25.714467] 299 out of 299 words in the vocab are also found in the pretrained embedding
+[debug] [2021-01-15 11:56:25.716545] Generating representation matrix complete!
+[info] [2021-01-15 11:56:26.690134] pandas.DataFrame.groupby
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2021-01-15 11:56:26.799888] pandas.DataFrame.median
+[info] [2021-01-15 11:56:26.833768] Success!
+[info] [2021-01-15 11:56:26.833891] Avg Rank 1.0
+[info] [2021-01-15 11:56:26.834050] Synthesis time: 1.0224189758300781
+[info] [2021-01-15 11:56:26.834133] lambda x: x.groupby(by=['neighbourhood_group'])
+[info] [2021-01-15 11:56:26.834133] lambda x: x.median()[['price']]
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+

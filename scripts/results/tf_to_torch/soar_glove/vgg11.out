@@ -1,0 +1,11 @@
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 00:45:27.922502] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 00:46:30.831837] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+[info] [2021-01-21 00:47:15.701859] Avg Rank 1.75

@@ -1,0 +1,51 @@
+Traceback (most recent call last):
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/lexer.py", line 431, in lex
+    yield lexer.next_token(lexer_state)
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/lexer.py", line 354, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+lark.exceptions.UnexpectedCharacters: No terminal defined for '/' at line 3 col 25
+
+              mutate(n=n/sum(n)*100) %>%
+                        ^
+
+Expecting: {'LPAR', 'RPAR', '__ANON_1', 'QUOTE', 'COMMA', 'LC', 'CNAME'}
+
+Previous tokens: Token('CNAME', 'n')
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "pd_synthesizer.py", line 141, in <module>
+    res = run_benchmark(f'{cmd_args.benchmark}.R', f'{cmd_args.benchmark}.csv')
+  File "pd_synthesizer.py", line 127, in run_benchmark
+    lines = load_dplyr(f'./dplyr/{source_path}')
+  File "pd_synthesizer.py", line 107, in load_dplyr
+    tree = parser.parse(code)
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/lark.py", line 495, in parse
+    return self.parser.parse(text, start=start)
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/parser_frontends.py", line 137, in parse
+    return self._parse(start, self.make_lexer(text))
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/parser_frontends.py", line 72, in _parse
+    return self.parser.parse(input, start, *args)
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/parsers/lalr_parser.py", line 35, in parse
+    return self.parser.parse(*args)
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/parsers/lalr_parser.py", line 129, in parse
+    return self.parse_from_state(parser_state)
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/parsers/lalr_parser.py", line 145, in parse_from_state
+    raise e
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/parsers/lalr_parser.py", line 135, in parse_from_state
+    for token in state.lexer.lex(state):
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/lexer.py", line 437, in lex
+    token = self.root_lexer.next_token(lexer_state)
+  File "/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/lark/lexer.py", line 354, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+lark.exceptions.UnexpectedCharacters: No terminal defined for '/' at line 3 col 25
+
+              mutate(n=n/sum(n)*100) %>%
+                        ^
+
+Expecting: {'LPAR', 'OP', 'RPAR', '__ANON_1', 'COMMA', 'NUMBER', 'LC', 'CNAME'}
+
+Previous tokens: Token('CNAME', 'n')
+

@@ -1,0 +1,31 @@
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 20:13:05.022099] Success!
+[info] [2021-01-20 20:13:05.022762] Avg Rank 2.05
+[info] [2021-01-20 20:13:05.052223] Synthesis time: 99.98148798942566
+[info] [2021-01-20 20:13:05.052375] self.before_0 = lambda x: x.permute(0,3,1,2)
+[info] [2021-01-20 20:13:05.052375] self.var1309 = torch.nn.Conv2d(3,96,(11,11),stride=(4,4),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var1310 = torch.nn.ReLU()
+[info] [2021-01-20 20:13:05.052375] self.var1315 = torch.nn.MaxPool2d((2,2),stride=(2,2),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var1327 = torch.nn.Conv2d(96,256,(11,11),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var1328 = torch.nn.ReLU()
+[info] [2021-01-20 20:13:05.052375] self.var1341 = torch.nn.MaxPool2d((2,2),stride=(2,2),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var1873 = torch.nn.Conv2d(256,384,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var1874 = torch.nn.ReLU()
+[info] [2021-01-20 20:13:05.052375] self.var2606 = torch.nn.Conv2d(384,384,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var2607 = torch.nn.ReLU()
+[info] [2021-01-20 20:13:05.052375] self.var3867 = torch.nn.Conv2d(384,256,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var3868 = torch.nn.ReLU()
+[info] [2021-01-20 20:13:05.052375] self.var3875 = torch.nn.MaxPool2d((2,2),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 20:13:05.052375] self.var3882 = lambda x: torch.flatten(x,1)
+[info] [2021-01-20 20:13:05.052375] self.var7363 = torch.nn.Linear(256,4096)
+[info] [2021-01-20 20:13:05.052375] self.var7364 = torch.nn.ReLU()
+[info] [2021-01-20 20:13:05.052375] self.var13845 = torch.nn.Linear(4096,1000)
+[info] [2021-01-20 20:13:05.052375] self.var13846 = torch.nn.ReLU()
+[info] [2021-01-20 20:13:05.052375] self.var21047 = torch.nn.Linear(1000,17)
+[info] [2021-01-20 20:13:05.052375] self.var21048 = torch.nn.Softmax(dim=-1)
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 20:13:11.556307] Avg Rank 2.05

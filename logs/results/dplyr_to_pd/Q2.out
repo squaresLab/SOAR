@@ -1,0 +1,42 @@
+[error] [2021-01-20 18:07:14.664003] Could not load <commons.library_api.Argument object at 0x7efd74a4cdc0>
+[error] [2021-01-20 18:07:14.665016] Could not load <commons.library_api.Argument object at 0x7efd74a27130>
+[error] [2021-01-20 18:07:14.666741] Could not load <commons.library_api.Argument object at 0x7efd749d6d60>
+[info] [2021-01-20 18:07:14.719436] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/frame.py:8522: RuntimeWarning: Degrees of freedom <= 0 for slice
+  base_cov = np.cov(mat.T, ddof=ddof)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/numpy/lib/function_base.py:2480: RuntimeWarning: divide by zero encountered in true_divide
+  c *= np.true_divide(1, fact)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/numpy/lib/function_base.py:2480: RuntimeWarning: invalid value encountered in multiply
+  c *= np.true_divide(1, fact)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/groupby/groupby.py:806: FutureWarning: dtype lost in 'diff()'. In the future this will raise a TypeError. Convert to a suitable dtype prior to calling 'diff'.
+  return f(x, *args, **kwargs)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/groupby/groupby.py:806: FutureWarning: tshift is deprecated and will be removed in a future version. Please use shift instead.
+  return f(x, *args, **kwargs)
+[info] [2021-01-20 18:07:59.608626] Success!
+[info] [2021-01-20 18:07:59.608760] Avg Rank 72.33333333333333
+[info] [2021-01-20 18:07:59.608890] Synthesis time: 11.88630223274231
+[info] [2021-01-20 18:07:59.608956] lambda x: x.groupby(by=['company'])
+[info] [2021-01-20 18:07:59.608956] lambda x: x.size()
+[info] [2021-01-20 18:07:59.608956] lambda x: x.head(n=10)
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+
+[error] [2021-01-20 18:08:02.786633] Could not load <commons.library_api.Argument object at 0x7f8e3e69cfa0>
+[error] [2021-01-20 18:08:02.787134] Could not load <commons.library_api.Argument object at 0x7f8e3e679970>
+[error] [2021-01-20 18:08:02.788902] Could not load <commons.library_api.Argument object at 0x7f8e3e649e20>
+[info] [2021-01-20 18:08:02.838943] Loading Glove Model
+[error] [2021-01-20 18:08:35.369478] Could not load <commons.library_api.Argument object at 0x7f8e37c7b4c0>
+[error] [2021-01-20 18:08:35.370431] Could not load <commons.library_api.Argument object at 0x7f8e37c7ba00>
+[error] [2021-01-20 18:08:35.374209] Could not load <commons.library_api.Argument object at 0x7f8e37c82c40>
+[info] [2021-01-20 18:08:35.480763] Avg Rank GLOVE 72.33333333333333
+[info] [2021-01-20 18:08:35.480900] Avg Rank TFIDF 157.66666666666666
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

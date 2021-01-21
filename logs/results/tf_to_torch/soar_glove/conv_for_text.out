@@ -1,0 +1,28 @@
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 00:43:43.502474] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+[info] [2021-01-21 00:44:35.946510] Success!
+[info] [2021-01-21 00:44:35.946877] Avg Rank 2.272727272727273
+[info] [2021-01-21 00:44:35.987478] Synthesis time: 11.420992851257324
+[info] [2021-01-21 00:44:35.987614] self.before_0 = lambda x: x.long()
+[info] [2021-01-21 00:44:35.987614] self.var37 = torch.nn.Embedding(50,10)
+[info] [2021-01-21 00:44:35.987614] self.before_2 = lambda x: x.permute(0,2,1)
+[info] [2021-01-21 00:44:35.987614] self.var176 = torch.nn.Conv1d(10,64,3,stride=1,padding=0)
+[info] [2021-01-21 00:44:35.987614] self.var177 = torch.nn.ReLU()
+[info] [2021-01-21 00:44:35.987614] self.before_5 = lambda x: x.permute(0,1,2)
+[info] [2021-01-21 00:44:35.987614] self.var321 = torch.nn.Conv1d(64,64,3,stride=1,padding=0)
+[info] [2021-01-21 00:44:35.987614] self.var322 = torch.nn.ReLU()
+[info] [2021-01-21 00:44:35.987614] self.var342 = torch.nn.MaxPool1d(64,stride=3,padding=32)
+[info] [2021-01-21 00:44:35.987614] self.var346 = lambda x: torch.flatten(x,1)
+[info] [2021-01-21 00:44:35.987614] self.var963 = torch.nn.Linear(192,100)
+[info] [2021-01-21 00:44:35.987614] self.var964 = torch.nn.ReLU()
+[info] [2021-01-21 00:44:35.987614] self.var1263 = torch.nn.Linear(100,10)
+[info] [2021-01-21 00:44:35.987614] self.var1264 = torch.nn.Softmax(dim=-1)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 00:44:41.076331] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+[info] [2021-01-21 00:45:23.257018] Avg Rank 2.272727272727273

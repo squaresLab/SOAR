@@ -1,0 +1,31 @@
+[error] [2021-01-20 18:09:56.688382] Could not load <commons.library_api.Argument object at 0x7fb3e68b6a30>
+[error] [2021-01-20 18:09:56.688936] Could not load <commons.library_api.Argument object at 0x7fb3e68cbca0>
+[error] [2021-01-20 18:09:56.690765] Could not load <commons.library_api.Argument object at 0x7fb3e68a2b20>
+[info] [2021-01-20 18:09:56.735364] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2021-01-20 18:10:29.235361] Success!
+[info] [2021-01-20 18:10:29.235478] Avg Rank 1.0
+[info] [2021-01-20 18:10:29.235606] Synthesis time: 0.9253828525543213
+[info] [2021-01-20 18:10:29.235676] lambda x: x.groupby(by=['year'])
+[info] [2021-01-20 18:10:29.235676] lambda x: x.mean()[['AveragePrice']]
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+
+[error] [2021-01-20 18:10:32.204175] Could not load <commons.library_api.Argument object at 0x7f2746c9df40>
+[error] [2021-01-20 18:10:32.204588] Could not load <commons.library_api.Argument object at 0x7f2746c9d340>
+[error] [2021-01-20 18:10:32.206020] Could not load <commons.library_api.Argument object at 0x7f2746c4a850>
+[info] [2021-01-20 18:10:32.251688] Loading Glove Model
+[error] [2021-01-20 18:11:04.025255] Could not load <commons.library_api.Argument object at 0x7f27402724c0>
+[error] [2021-01-20 18:11:04.025723] Could not load <commons.library_api.Argument object at 0x7f2740272a00>
+[error] [2021-01-20 18:11:04.027601] Could not load <commons.library_api.Argument object at 0x7f2740279c40>
+[info] [2021-01-20 18:11:04.112182] Avg Rank GLOVE 1.0
+[info] [2021-01-20 18:11:04.112301] Avg Rank TFIDF 87.5
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

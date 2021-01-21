@@ -1,0 +1,1 @@
+df0 <- input1 %>% group_by(Region) %>% summarise(count=n()) %>% arrange(desc(count))

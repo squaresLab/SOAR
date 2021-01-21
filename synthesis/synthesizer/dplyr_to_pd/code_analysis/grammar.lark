@@ -1,0 +1,39 @@
+lines: line lines                            -> block_node
+     | line                                  -> single_block_node
+
+line: lval "<-" exprs                        -> assignment_node
+
+exprs: exprs "%>%" expr                      -> collapse_function_node
+     | expr                                  -> collapse
+
+expr: _function_name "(" params ")"          -> function_node
+    | lval                                   -> rvalue_node
+    | literal                                -> collapse
+
+params: param "," params                     -> sequence_node
+      | param                                -> single_sequence_node
+
+param: _arg OP "'"? expr "'"? LC param       -> predicate_node
+     | _arg OP "'"? expr "'"?                -> single_predicate_node
+     | expr                                  -> collapse
+     |                                       -> empty_node
+
+
+_function_name: CNAME
+_arg: CNAME
+lval: CNAME                                  -> identifier_node
+literal: NUMBER                              -> literal_node
+
+
+
+// Lexer
+
+OP: /[-!='><]/+
+LC: /[+&|-]/+
+
+
+%import common.CNAME
+%import common.NEWLINE
+%import common.NUMBER
+%import common.WS
+%ignore WS

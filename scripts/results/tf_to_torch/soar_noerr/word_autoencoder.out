@@ -1,0 +1,15 @@
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 19:40:13.330313] Success!
+[info] [2021-01-20 19:40:13.330765] Avg Rank 1.0
+[info] [2021-01-20 19:40:13.351397] Synthesis time: 1.3152110576629639
+[info] [2021-01-20 19:40:13.351518] self.before_0 = lambda x: x.long()
+[info] [2021-01-20 19:40:13.351518] self.var176 = torch.nn.Embedding(1000,50)
+[info] [2021-01-20 19:40:13.351518] self.before_2 = lambda x: x.long()
+[info] [2021-01-20 19:40:13.351518] self.var313 = torch.nn.Embedding(2,1000)
+[info] [2021-01-20 19:40:13.351518] self.var314 = torch.nn.Softmax(dim=-1)
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 19:40:19.805680] Avg Rank 1.0

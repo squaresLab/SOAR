@@ -1,0 +1,1 @@
+df <- input1 %>% group_by(Type1) %>% summarise(n = n()) %>% arrange(desc(n)) %>% top_n(5)

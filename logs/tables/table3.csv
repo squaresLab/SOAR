@@ -1,0 +1,22 @@
+Name,SOAR W/ TF-IDF,SOAR W/ TF-IDF,SOAR w/ Tfidf-GloVe, SOAR w/ Tfidf-GloVe
+Name,Time(s),Avg. Ranking,Time(s),Avg. Ranking,
+conv_pool_softmax,1.67,1.0,1.66,1.0
+img_classifier,10.64,2.8,21.77,2.8
+three_linear,3.80,8.0,6.21,8.0
+embed_conv1d_linear,5.31,2.4,5.90,2.4
+word_autoencoder,1.67,1.0,1.23,1.0
+gan_discriminator,28.22,3.5,41.67,2.8
+two_conv,19.88,1.0,timeout,1.0
+img_autoencoder,448.02,1.9,411.88,1.9
+alexnet,74.57,2.0,74.15,2.0
+gan_generator,204.07,2.1,timeout,2.6
+lenet,736.57,4.3,timeout,89.1
+tutorial,13.79,2.4,20.13,2.4
+conv_for_text,7.28,2.3,11.42,2.3
+vgg11,57.85,1.8,timeout,1.8
+vgg16,83.57,1.6,timeout,1.6
+vgg19,94.06,1.5,timeout,1.5
+densenet_part1,timeout,172.8,timeout,285.6
+densenet_part2,timeout,10.0,timeout,285.5
+densenet_conv_block,timeout,293.3,timeout,634.0
+densenet_trans_block,timeout,291.0,timeout,662.7

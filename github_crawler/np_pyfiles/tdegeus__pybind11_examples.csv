@@ -1,0 +1,12 @@
+file_path,api_count,code
+01_py-list_cpp-vector/test.py,0,"b'\nimport example\n\nA = [1.,2.,3.,4.]\n\nB = example.modify(A)\n\nprint(B)\n\n'"
+02_py-nested-list_cpp-nested-vector/test.py,0,"b'\nimport example\n\nA = [[1,2,3,4],[5,6]]\n\nB = example.modify(A)\n\nprint(B)\n'"
+03_numpy-1D_cpp-vector/test.py,1,"b""\nimport numpy as np\nimport example\n\nA = [0,1,2,3,4,5]\nB = example.multiply(A)\n\nprint('input list = ',A)\nprint('output     = ',B)\n\nA = np.arange(10)\nB = example.multiply(A)\n\nprint('input list = ',A)\nprint('output     = ',B)\n\n\n"""
+04_numpy-2D_cpp-vector/test.py,1,"b""\nimport numpy as np\nimport example\n\nA = np.arange(10).reshape(5,2)\nB = example.length(A)\n\nprint('A = \\n',A)\nprint('B = \\n',B)\n"""
+05_numpy-2D_cpp-eigen/test.py,3,"b""import numpy as np\nimport example\n\nA = np.array([[1,2,1],\n              [2,1,0],\n              [-1,1,2]])\n\nprint('A = \\n'                   , A)\nprint('example.det(A) = \\n'      , example  .det(A))\nprint('numpy.linalg.det(A) = \\n' , np.linalg.det(A))\nprint('example.inv(A) = \\n'      , example  .inv(A))\nprint('numpy.linalg.inv(A) = \\n' , np.linalg.inv(A))\n\n"""
+06_class-numpy-eigen/test.py,1,"b""import numpy as np\nimport example\n\nA = np.arange(10)\n\nprint('A = \\n',A)\n\narray = example.CustomVectorXd(A)\n\nprint('array.mul(default) = \\n'   ,array.mul()          )\nprint('array.mul(factor=100) = \\n',array.mul(factor=100))\n\nprint('trans(A) = \\n',example.trans(A))\n"""
+07_cpp-overload-scalar/test.py,0,"b'import numpy as np\nimport example\n\nprint(example.mul(10.,20.))\nprint(example.mul(10 ,20.))\nprint(example.mul(10 ,20 ))\n\n'"
+08_cpp-overload-eigen/test.py,3,"b'import numpy as np\nimport example\n\nA = np.array([[1,2,1],\n              [2,1,0],\n              [-1,1,2]])\nB = 10\n\nprint(example.mul(A.astype(np.int  ),int  (B)))\nprint(example.mul(A.astype(np.float),float(B)))\n'"
+09_numpy_cpp-custom-matrix/test.py,6,"b'\nimport numpy as np\nimport example\n\nA = np.arange(5)\nB = np.arange(5)\n\nprint(example.mul(A,B))\n\nA = np.arange(25).reshape(5,5)\nB = np.arange(25).reshape(5,5)\n\nprint(example.mul(A,B))\n\nA = np.arange(125).reshape(5,5,5)\nB = np.arange(125).reshape(5,5,5)\n\nprint(example.mul(A,B))\n'"
+10_enum/test.py,0,b'\nimport example\n\nprint(example.Type.Cat)\n\nexample.whichAnimal(example.Type.Dog)\n'
+11_class-parent-child/test.py,0,"b'\nimport example\n\nprint(example.talk(example.Dog(),2))\nprint(example.talk(example.Cat(),3))\n'"

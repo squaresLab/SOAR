@@ -1,0 +1,3 @@
+file_path,api_count,code
+Chapter01/1.2.3.py,0,"b""# -*- coding: utf-8 -*-\n\nfrom PIL import Image\nfrom pylab import *\n\nim = array(Image.open('images/empire.jpg'))\n\nimshow(im)\n\nprint 'Please click 3 points'\n\nx = ginput(3)\n\nprint 'You clicked:', x\n\nshow()"""
+Chapter01/1.3.1.py,0,"b""# -*- coding: utf-8 -*-\n\nfrom PIL import Image\nfrom pylab import *\n\nim = array(Image.open('images/empire.jpg'))\nprint im.shape, im.dtype\n\nim = array(Image.open('images/empire.jpg').convert('L'), 'f')\nprint im.shape, im.dtype\n\n"""

@@ -1,0 +1,2 @@
+file_path,api_count,code
+Notebooks/script1.py,0,"b'# Bienvenido al curso de Python Cient\xc3\xadfico\r\n# Esto es un Comentario \r\n\r\na = 4\r\nb = 5\r\n\r\nprint(""Bienvenido al curso de Python"")'"

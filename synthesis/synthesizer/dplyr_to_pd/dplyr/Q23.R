@@ -1,0 +1,1 @@
+df0 <- input1 %>% group_by(channel_title) %>% summarise(Sum=n()) %>% arrange(desc(Sum)) %>% top_n(10, Sum)

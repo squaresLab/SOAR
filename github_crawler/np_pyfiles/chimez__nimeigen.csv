@@ -1,0 +1,2 @@
+file_path,api_count,code
+examples/pyeigs/test.py,2,"b'import numpy as np\n\nimport pyeigs\n\nmat = np.array([[1, 2j], [3, 4]])\nprint(""numpy:"", np.linalg.eigvals(mat))\nprint(""pyeigs:"", pyeigs.eigs(mat).transpose())\n'"

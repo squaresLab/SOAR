@@ -1,0 +1,40 @@
+[error] [2021-01-20 18:20:12.838101] Could not load <commons.library_api.Argument object at 0x7f739d9ca190>
+[error] [2021-01-20 18:20:12.838643] Could not load <commons.library_api.Argument object at 0x7f739d9ca160>
+[error] [2021-01-20 18:20:12.840504] Could not load <commons.library_api.Argument object at 0x7f739d9cbe50>
+[info] [2021-01-20 18:20:12.887777] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/frame.py:8522: RuntimeWarning: Degrees of freedom <= 0 for slice
+  base_cov = np.cov(mat.T, ddof=ddof)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/numpy/lib/function_base.py:2480: RuntimeWarning: divide by zero encountered in true_divide
+  c *= np.true_divide(1, fact)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/numpy/lib/function_base.py:2480: RuntimeWarning: invalid value encountered in multiply
+  c *= np.true_divide(1, fact)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/groupby/groupby.py:806: FutureWarning: tshift is deprecated and will be removed in a future version. Please use shift instead.
+  return f(x, *args, **kwargs)
+[info] [2021-01-20 18:20:57.312778] Success!
+[info] [2021-01-20 18:20:57.312943] Avg Rank 77.66666666666667
+[info] [2021-01-20 18:20:57.313147] Synthesis time: 11.855018138885498
+[info] [2021-01-20 18:20:57.313233] lambda x: x.query(expr='Exited == 1')
+[info] [2021-01-20 18:20:57.313233] lambda x: x.groupby(by=['Gender'])
+[info] [2021-01-20 18:20:57.313233] lambda x: x.size()
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+
+[error] [2021-01-20 18:21:00.457047] Could not load <commons.library_api.Argument object at 0x7fa785cf36d0>
+[error] [2021-01-20 18:21:00.457699] Could not load <commons.library_api.Argument object at 0x7fa785cf3f70>
+[error] [2021-01-20 18:21:00.459516] Could not load <commons.library_api.Argument object at 0x7fa785ccfb80>
+[info] [2021-01-20 18:21:00.511207] Loading Glove Model
+[error] [2021-01-20 18:21:32.691166] Could not load <commons.library_api.Argument object at 0x7fa7835f2670>
+[error] [2021-01-20 18:21:32.692472] Could not load <commons.library_api.Argument object at 0x7fa7835f2bb0>
+[error] [2021-01-20 18:21:32.697793] Could not load <commons.library_api.Argument object at 0x7fa77f2fcdf0>
+[info] [2021-01-20 18:21:32.794030] Avg Rank GLOVE 77.66666666666667
+[info] [2021-01-20 18:21:32.794171] Avg Rank TFIDF 166.0
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

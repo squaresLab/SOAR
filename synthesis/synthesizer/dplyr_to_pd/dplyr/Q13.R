@@ -1,0 +1,1 @@
+df0 <- input1 %>% group_by(city) %>% summarise(n = n())

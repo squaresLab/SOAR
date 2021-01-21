@@ -1,0 +1,1 @@
+df0 <- input1 %>% group_by(Nationality) %>% summarise(n=mean(Overall)) %>% top_n(10, n) %>% arrange(desc(n))

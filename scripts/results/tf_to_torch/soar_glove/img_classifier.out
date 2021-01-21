@@ -1,0 +1,25 @@
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 23:51:54.067969] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+[info] [2021-01-20 23:52:58.627713] Success!
+[info] [2021-01-20 23:52:58.628129] Avg Rank 2.75
+[info] [2021-01-20 23:52:58.667130] Synthesis time: 21.77158284187317
+[info] [2021-01-20 23:52:58.667262] self.before_0 = lambda x: x.permute(0,3,2,1)
+[info] [2021-01-20 23:52:58.667262] self.var35 = torch.nn.Conv2d(1,32,(5,5),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 23:52:58.667262] self.var40 = torch.nn.MaxPool2d((2,2),stride=(2,2),padding=(0,0))
+[info] [2021-01-20 23:52:58.667262] self.before_3 = lambda x: x.permute(0,1,2,3)
+[info] [2021-01-20 23:52:58.667262] self.var88 = torch.nn.Conv2d(32,64,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 23:52:58.667262] self.var90 = torch.nn.MaxPool2d((2,2),stride=(2,2),padding=(0,0))
+[info] [2021-01-20 23:52:58.667262] self.before_6 = lambda x: x.permute(0,3,2,1)
+[info] [2021-01-20 23:52:58.667262] self.var115 = lambda x: torch.flatten(x,1)
+[info] [2021-01-20 23:52:58.667262] self.var116 = torch.nn.ReLU()
+[info] [2021-01-20 23:52:58.667262] self.var1465 = torch.nn.Linear(5120,1024)
+[info] [2021-01-20 23:52:58.667262] self.var1956 = torch.nn.Linear(1024,5)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 23:53:03.531013] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+[info] [2021-01-20 23:53:45.066696] Avg Rank 2.75

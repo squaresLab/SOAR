@@ -1,0 +1,2 @@
+file_path,api_count,code
+setup.py,0,"b'from distutils.core import setup\nfrom Cython.Build import cythonize\nfrom Cython.Distutils import build_ext\nfrom distutils.extension import Extension\n\nsetup(name=""Corpus"",cmdclass = {\'build_ext\': build_ext},ext_modules = [Extension(""Corpus"", [""Corpus.pyx""],language=\'c++\')])'"

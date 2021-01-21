@@ -1,0 +1,21 @@
+Name,SOAR,SOAR w/o Specs,SOAR w/o Err. Msg
+conv_pool_softmax,1.67,11.76,10.14
+img_classifier,10.64,timeout,176.60
+three_linear,3.80,2.43,12.30
+embed_conv1d_linear,5.31,93.60,7.41
+word_autoencoder,1.67,1.10,1.32
+gan_discriminator,28.22,timeout,timeout
+two_conv,19.88,timeout,19.06
+img_autoencoder,448.02,444.45,607.91
+alexnet,74.57,timeout,99.98
+gan_generator,204.07,timeout,385.07
+lenet,736.57,timeout,timeout
+tutorial,13.79,131.02,105.70
+conv_for_text,7.28,107.88,30.61
+vgg11,57.85,timeout,624.92
+vgg16,83.57,timeout,547.22
+vgg19,94.06,timeout,timeout
+densenet_part1,timeout,timeout,timeout
+densenet_part2,timeout,timeout,timeout
+densenet_conv_block,timeout,timeout,timeout
+densenet_trans_block,timeout,timeout,timeout

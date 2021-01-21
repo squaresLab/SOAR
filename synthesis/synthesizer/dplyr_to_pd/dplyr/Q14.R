@@ -1,0 +1,1 @@
+df0 <- input1 %>% filter(Exited == 1) %>% group_by(Gender) %>% summarise(n = n())

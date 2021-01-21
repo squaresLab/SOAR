@@ -1,0 +1,34 @@
+[error] [2021-01-20 18:12:19.898344] Could not load <commons.library_api.Argument object at 0x7fc17df89460>
+[error] [2021-01-20 18:12:19.898906] Could not load <commons.library_api.Argument object at 0x7fc17df929a0>
+[error] [2021-01-20 18:12:19.900672] Could not load <commons.library_api.Argument object at 0x7fc17df28a90>
+[info] [2021-01-20 18:12:19.950089] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/groupby/groupby.py:806: FutureWarning: tshift is deprecated and will be removed in a future version. Please use shift instead.
+  return f(x, *args, **kwargs)
+[info] [2021-01-20 18:13:00.445979] Success!
+[info] [2021-01-20 18:13:00.446126] Avg Rank 77.66666666666667
+[info] [2021-01-20 18:13:00.446300] Synthesis time: 9.216293096542358
+[info] [2021-01-20 18:13:00.446398] lambda x: x.query(expr='Survived == 1')
+[info] [2021-01-20 18:13:00.446398] lambda x: x.groupby(by=['Sex'])
+[info] [2021-01-20 18:13:00.446398] lambda x: x.size()
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+
+[error] [2021-01-20 18:13:03.663036] Could not load <commons.library_api.Argument object at 0x7f5847dc79d0>
+[error] [2021-01-20 18:13:03.663542] Could not load <commons.library_api.Argument object at 0x7f5847ddcdf0>
+[error] [2021-01-20 18:13:03.665088] Could not load <commons.library_api.Argument object at 0x7f5847d66a30>
+[info] [2021-01-20 18:13:03.709631] Loading Glove Model
+[error] [2021-01-20 18:13:35.917540] Could not load <commons.library_api.Argument object at 0x7f58456b3a00>
+[error] [2021-01-20 18:13:35.917934] Could not load <commons.library_api.Argument object at 0x7f58456b3f40>
+[error] [2021-01-20 18:13:35.919990] Could not load <commons.library_api.Argument object at 0x7f58413bc1c0>
+[info] [2021-01-20 18:13:36.001798] Avg Rank GLOVE 77.66666666666667
+[info] [2021-01-20 18:13:36.001920] Avg Rank TFIDF 166.0
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

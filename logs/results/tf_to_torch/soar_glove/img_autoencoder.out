@@ -1,0 +1,35 @@
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 00:02:45.247936] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+[info] [2021-01-21 00:10:17.688573] Success!
+[info] [2021-01-21 00:10:17.688951] Avg Rank 1.9333333333333333
+[info] [2021-01-21 00:10:17.726609] Synthesis time: 411.8759734630585
+[info] [2021-01-21 00:10:17.726755] self.before_0 = lambda x: x.permute(0,3,1,2)
+[info] [2021-01-21 00:10:17.726755] self.var536 = torch.nn.Conv2d(32,32,(3,3),stride=(2,2),padding=(0,0))
+[info] [2021-01-21 00:10:17.726755] self.var537 = torch.nn.ReLU()
+[info] [2021-01-21 00:10:17.726755] self.before_3 = lambda x: x.permute(0,1,3,2)
+[info] [2021-01-21 00:10:17.726755] self.var994 = torch.nn.Conv2d(32,64,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-21 00:10:17.726755] self.var995 = torch.nn.ReLU()
+[info] [2021-01-21 00:10:17.726755] self.var996 = lambda x: torch.flatten(x,1)
+[info] [2021-01-21 00:10:17.726755] self.var1235 = torch.nn.Linear(64,10)
+[info] [2021-01-21 00:10:17.726755] self.var1342 = torch.nn.Linear(10,1568)
+[info] [2021-01-21 00:10:17.726755] self.var1343 = torch.nn.ReLU()
+[info] [2021-01-21 00:10:17.726755] self.before_10 = lambda x: x.view(10,32,7,7)
+[info] [2021-01-21 00:10:17.726755] self.var1443 = lambda x: torch.Tensor(x)
+[info] [2021-01-21 00:10:17.726755] self.before_12 = lambda x: x.permute(0,1,3,2)
+[info] [2021-01-21 00:10:17.726755] self.var6737 = torch.nn.ConvTranspose2d(32,64,(3,3),stride=(2,2),padding=(0,0))
+[info] [2021-01-21 00:10:17.726755] self.var6738 = torch.nn.ReLU()
+[info] [2021-01-21 00:10:17.726755] self.before_15 = lambda x: x.permute(0,1,3,2)
+[info] [2021-01-21 00:10:17.726755] self.var10044 = torch.nn.ConvTranspose2d(64,32,(3,3),stride=(2,2),padding=(0,0))
+[info] [2021-01-21 00:10:17.726755] self.var10045 = torch.nn.ReLU()
+[info] [2021-01-21 00:10:17.726755] self.before_18 = lambda x: x.permute(0,1,2,3)
+[info] [2021-01-21 00:10:17.726755] self.var11828 = torch.nn.ConvTranspose2d(32,1,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-21 00:10:17.726755] self.var11829 = torch.nn.ReLU()
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-21 00:10:22.941871] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 1681, number of word types w/ frequency >= 1: 1681
+[info] [2021-01-21 00:11:06.179291] Avg Rank 1.9333333333333333

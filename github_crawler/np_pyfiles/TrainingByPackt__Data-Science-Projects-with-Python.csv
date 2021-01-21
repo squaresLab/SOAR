@@ -1,0 +1,2 @@
+file_path,api_count,code
+Lesson01/Exercise01.py,0,"b""for counter in range(5):\n...    print(counter)\n... \nexample_dict = {'apples':5, 'oranges':8, 'bananas':13}\ndict_to_list = list(example_dict)\ndict_to_list\ndict_to_list = dict_to_list + ['pears']\ndict_to_list\nsorted(dict_to_list)\n"""

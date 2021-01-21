@@ -1,0 +1,35 @@
+[error] [2021-01-20 18:13:38.961288] Could not load <commons.library_api.Argument object at 0x7f5e742fb790>
+[error] [2021-01-20 18:13:38.961849] Could not load <commons.library_api.Argument object at 0x7f5e742fb3a0>
+[error] [2021-01-20 18:13:38.963750] Could not load <commons.library_api.Argument object at 0x7f5e742a1430>
+[info] [2021-01-20 18:13:39.016332] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/groupby/groupby.py:806: FutureWarning: dtype lost in 'diff()'. In the future this will raise a TypeError. Convert to a suitable dtype prior to calling 'diff'.
+  return f(x, *args, **kwargs)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/groupby/groupby.py:806: FutureWarning: tshift is deprecated and will be removed in a future version. Please use shift instead.
+  return f(x, *args, **kwargs)
+[info] [2021-01-20 18:14:20.026730] Success!
+[info] [2021-01-20 18:14:20.026848] Avg Rank 106.5
+[info] [2021-01-20 18:14:20.027022] Synthesis time: 10.126650094985962
+[info] [2021-01-20 18:14:20.027095] lambda x: x.groupby(by=['ContentRating'])
+[info] [2021-01-20 18:14:20.027095] lambda x: x.size()
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+
+[error] [2021-01-20 18:14:23.260928] Could not load <commons.library_api.Argument object at 0x7f0650793c70>
+[error] [2021-01-20 18:14:23.261408] Could not load <commons.library_api.Argument object at 0x7f0650793700>
+[error] [2021-01-20 18:14:23.263022] Could not load <commons.library_api.Argument object at 0x7f065071f4c0>
+[info] [2021-01-20 18:14:23.308271] Loading Glove Model
+[error] [2021-01-20 18:14:54.700323] Could not load <commons.library_api.Argument object at 0x7f0649d6f190>
+[error] [2021-01-20 18:14:54.700759] Could not load <commons.library_api.Argument object at 0x7f0649d6f6d0>
+[error] [2021-01-20 18:14:54.702593] Could not load <commons.library_api.Argument object at 0x7f0649d77910>
+[info] [2021-01-20 18:14:54.779070] Avg Rank GLOVE 106.5
+[info] [2021-01-20 18:14:54.779178] Avg Rank TFIDF 186.5
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+number of word types: 288, number of word types w/ frequency >= 1: 288

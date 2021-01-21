@@ -1,0 +1,26 @@
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 14:50:36.283649] Success!
+[info] [2021-01-20 14:50:36.284169] Avg Rank 4.3076923076923075
+[info] [2021-01-20 14:50:36.293993] Synthesis time: 736.5714201927185
+[info] [2021-01-20 14:50:36.294190] self.before_0 = lambda x: x.permute(0,3,1,2)
+[info] [2021-01-20 14:50:36.294190] self.var102 = torch.nn.Conv2d(1,6,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 14:50:36.294190] self.var103 = torch.nn.ReLU()
+[info] [2021-01-20 14:50:36.294190] self.var16639 = torch.nn.AvgPool2d((2,2),stride=(2,2),padding=(0,0))
+[info] [2021-01-20 14:50:36.294190] self.before_4 = lambda x: x.permute(0,1,2,3)
+[info] [2021-01-20 14:50:36.294190] self.var16681 = torch.nn.Conv2d(6,16,(3,3),stride=(1,1),padding=(0,0))
+[info] [2021-01-20 14:50:36.294190] self.var16682 = torch.nn.ReLU()
+[info] [2021-01-20 14:50:36.294190] self.var21143 = torch.nn.AvgPool2d((2,2),stride=(2,2),padding=(0,0))
+[info] [2021-01-20 14:50:36.294190] self.before_8 = lambda x: x.permute(0,2,3,1)
+[info] [2021-01-20 14:50:36.294190] self.var21161 = lambda x: torch.flatten(x,1)
+[info] [2021-01-20 14:50:36.294190] self.var21942 = torch.nn.Linear(576,120)
+[info] [2021-01-20 14:50:36.294190] self.var21943 = torch.nn.ReLU()
+[info] [2021-01-20 14:50:36.294190] self.var22392 = torch.nn.Linear(120,84)
+[info] [2021-01-20 14:50:36.294190] self.var22393 = torch.nn.ReLU()
+[info] [2021-01-20 14:50:36.294190] self.var22682 = torch.nn.Linear(84,10)
+[info] [2021-01-20 14:50:36.294190] self.var22683 = torch.nn.Softmax(dim=-1)
+number of word types: 1494, number of word types w/ frequency >= 1: 1494
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+[info] [2021-01-20 14:50:43.361406] Avg Rank 4.3076923076923075

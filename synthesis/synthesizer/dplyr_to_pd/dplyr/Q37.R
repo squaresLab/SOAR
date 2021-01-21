@@ -1,0 +1,1 @@
+df0 <- input1 %>% group_by(neighbourhood_group) %>% summarise(median = median(price))

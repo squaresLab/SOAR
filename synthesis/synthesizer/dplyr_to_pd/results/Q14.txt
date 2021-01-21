@@ -1,0 +1,323 @@
+[error] [2021-01-15 11:50:11.948779] Could not load <commons.library_api.Argument object at 0x7f73d42075e0>
+[error] [2021-01-15 11:50:11.949692] Could not load <commons.library_api.Argument object at 0x7f73d4207160>
+[error] [2021-01-15 11:50:11.951683] Could not load <commons.library_api.Argument object at 0x7f73d41f3dc0>
+[info] [2021-01-15 11:50:12.009268] Loading Glove Model
+[debug] [2021-01-15 11:50:44.975337] Done. 400000 words loaded!
+[info] [2021-01-15 11:50:45.074058] Unknown word starwars: break into star and wars
+[info] [2021-01-15 11:50:45.074289] Unknown word recode: break into re and code
+[info] [2021-01-15 11:50:45.074417] Unknown word lag: break into l and ag
+[info] [2021-01-15 11:50:45.074544] Unknown word rowwise: break into row and wise
+[info] [2021-01-15 11:50:45.074671] Unknown word rename: break into re and name
+[info] [2021-01-15 11:50:45.074827] Unknown word assign: break into as and sign
+[info] [2021-01-15 11:50:45.074944] Unknown word transpose: break into trans and pose
+[info] [2021-01-15 11:50:45.075074] Unknown word markdown: break into mark and down
+[info] [2021-01-15 11:50:45.075206] Unknown word feather: break into feat and her
+[info] [2021-01-15 11:50:45.075435] Unknown word pickle: break into pick and le
+[info] [2021-01-15 11:50:45.075577] Unknown word json: break into j and son
+[info] [2021-01-15 11:50:45.075735] Unknown word bfill: break into b and fill
+[info] [2021-01-15 11:50:45.075827] Unknown word ffill: break into f and fill
+[info] [2021-01-15 11:50:45.076046] Unknown word boxplot: break into box and plot
+[info] [2021-01-15 11:50:45.076161] Unknown word kde: break into k and de
+[info] [2021-01-15 11:50:45.076350] Unknown word timestamp: break into time and stamp
+[info] [2021-01-15 11:50:45.076468] Unknown word tshift: break into t and shift
+[info] [2021-01-15 11:50:45.076559] Unknown word resample: break into re and sample
+[info] [2021-01-15 11:50:45.076663] Unknown word asof: break into as and of
+[info] [2021-01-15 11:50:45.076785] Unknown word xarray: break into x and array
+[info] [2021-01-15 11:50:45.076934] Unknown word swaplevel: break into swap and level
+[info] [2021-01-15 11:50:45.077045] Unknown word nsmallest: break into n and smallest
+[info] [2021-01-15 11:50:45.077140] Unknown word nlargest: break into n and largest
+[info] [2021-01-15 11:50:45.077239] Unknown word reorder: break into re and order
+[info] [2021-01-15 11:50:45.077353] Unknown word droplevel: break into drop and level
+[info] [2021-01-15 11:50:45.077473] Unknown word fillna: break into fill and na
+[info] [2021-01-15 11:50:45.077574] Unknown word dropna: break into drop and na
+[info] [2021-01-15 11:50:45.077693] Unknown word reset: break into re and set
+[info] [2021-01-15 11:50:45.077771] Unknown word rename: break into re and name
+[info] [2021-01-15 11:50:45.077877] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:50:45.077948] Unknown word rename: break into re and name
+[info] [2021-01-15 11:50:45.078026] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:50:45.078193] Unknown word prefix: break into pre and fix
+[info] [2021-01-15 11:50:45.078301] Unknown word nunique: break into n and unique
+[info] [2021-01-15 11:50:45.078439] Unknown word prod: break into p and rod
+[info] [2021-01-15 11:50:45.078552] Unknown word min: break into m and in
+[info] [2021-01-15 11:50:45.078795] Unknown word groupby: break into group and by
+[info] [2021-01-15 11:50:45.078926] Unknown word applymap: break into apply and map
+[info] [2021-01-15 11:50:45.079098] Unknown word radd: break into r and add
+[info] [2021-01-15 11:50:45.079198] Unknown word rsub: break into r and sub
+[info] [2021-01-15 11:50:45.079322] Unknown word div: break into d and iv
+[info] [2021-01-15 11:50:45.079490] Unknown word isin: break into is and in
+[info] [2021-01-15 11:50:45.079627] Unknown word lookup: break into look and up
+[info] [2021-01-15 11:50:45.079775] Unknown word iat: break into i and at
+[info] [2021-01-15 11:50:45.079889] Unknown word notna: break into not and na
+[info] [2021-01-15 11:50:45.079958] Unknown word isna: break into is and na
+[info] [2021-01-15 11:50:45.080076] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:50:45.080167] Unknown word astype: break into as and type
+[info] [2021-01-15 11:50:45.080265] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:50:45.080345] Unknown word dtypes: break into d and types
+[info] [2021-01-15 11:50:45.080465] Unknown word sortlevel: break into sort and level
+[info] [2021-01-15 11:50:45.080547] Unknown word reindex: break into re and index
+[info] [2021-01-15 11:50:45.080642] Unknown word pad: break into p and ad
+[info] [2021-01-15 11:50:45.080738] Unknown word backfill: break into back and fill
+[info] [2021-01-15 11:50:45.080824] Unknown word irow: break into i and row
+[info] [2021-01-15 11:50:45.080925] Unknown word iget: break into i and get
+[info] [2021-01-15 11:50:45.081009] Unknown word ftype: break into f and type
+[info] [2021-01-15 11:50:45.081074] Unknown word dtype: break into d and type
+[info] [2021-01-15 11:50:45.081139] Unknown word ftypes: break into f and types
+[debug] [2021-01-15 11:50:45.121839] 299 out of 299 words in the vocab are also found in the pretrained embedding
+[debug] [2021-01-15 11:50:45.123846] Generating representation matrix complete!
+[info] [2021-01-15 11:50:46.085687] pandas.DataFrame.filter
+[info] [2021-01-15 11:50:46.095768] pandas.DataFrame.insert
+[info] [2021-01-15 11:50:48.299739] pandas.DataFrame.sample
+[info] [2021-01-15 11:50:48.328151] pandas.DataFrame.as_matrix
+[info] [2021-01-15 11:50:48.336948] pandas.DataFrame.load
+[info] [2021-01-15 11:50:48.350277] pandas.DataFrame.apply
+[info] [2021-01-15 11:50:48.367217] pandas.DataFrame
+[info] [2021-01-15 11:50:48.375422] pandas.DataFrame.sparse.density
+[info] [2021-01-15 11:50:48.384095] pandas.DataFrame.plot.density
+[info] [2021-01-15 11:50:48.392875] pandas.DataFrame.pipe
+[info] [2021-01-15 11:50:48.668676] pandas.DataFrame.transform
+[info] [2021-01-15 11:50:48.686446] pandas.DataFrame.convert_dtypes
+[info] [2021-01-15 11:50:48.704781] pandas.DataFrame.astype
+[info] [2021-01-15 11:50:48.721985] pandas.DataFrame.mask
+[info] [2021-01-15 11:50:48.736161] pandas.DataFrame.resample
+[info] [2021-01-15 11:50:48.754052] pandas.DataFrame.stack
+[info] [2021-01-15 11:50:48.767739] pandas.DataFrame.applymap
+[info] [2021-01-15 11:50:48.788329] pandas.DataFrame.ftypes
+[info] [2021-01-15 11:50:48.796623] pandas.DataFrame.dtypes
+[info] [2021-01-15 11:50:48.804927] pandas.DataFrame.query
+[info] [2021-01-15 11:50:48.858929] pandas.DataFrame.groupby
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+number of word types: 295, number of word types w/ frequency >= 1: 295
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2021-01-15 11:50:48.929710] pandas.DataFrame.append
+[info] [2021-01-15 11:50:48.944840] pandas.DataFrame.subtract
+[info] [2021-01-15 11:50:48.960481] pandas.DataFrame.skew
+[info] [2021-01-15 11:50:48.977360] pandas.DataFrame.interpolate
+[info] [2021-01-15 11:50:48.988087] pandas.DataFrame.eq
+[info] [2021-01-15 11:50:49.005092] pandas.DataFrame.truncate
+[info] [2021-01-15 11:50:49.014330] pandas.DataFrame.tz_localize
+[info] [2021-01-15 11:50:49.031103] pandas.DataFrame.to_numpy
+[info] [2021-01-15 11:50:49.040478] pandas.DataFrame.multiply
+[info] [2021-01-15 11:50:49.056081] pandas.DataFrame.query
+[info] [2021-01-15 11:50:49.066402] pandas.DataFrame.eval
+[info] [2021-01-15 11:50:49.080345] pandas.DataFrame.quantile
+[info] [2021-01-15 11:50:49.094464] pandas.DataFrame.compare
+[info] [2021-01-15 11:50:49.107538] pandas.DataFrame.infer_objects
+[info] [2021-01-15 11:50:49.116463] pandas.DataFrame.stack
+[info] [2021-01-15 11:50:49.117900] pandas.DataFrame.plot.scatter
+[info] [2021-01-15 11:50:49.169022] pandas.DataFrame.kurtosis
+[info] [2021-01-15 11:50:49.175879] pandas.DataFrame.sum
+[info] [2021-01-15 11:50:49.408667] pandas.DataFrame.combineMult
+[info] [2021-01-15 11:50:49.423734] pandas.DataFrame.plot.hexbin
+[info] [2021-01-15 11:50:49.479594] pandas.DataFrame.axes
+[info] [2021-01-15 11:50:49.487976] pandas.DataFrame.cov
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/frame.py:8522: RuntimeWarning: Degrees of freedom <= 0 for slice
+  base_cov = np.cov(mat.T, ddof=ddof)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/numpy/lib/function_base.py:2480: RuntimeWarning: divide by zero encountered in true_divide
+  c *= np.true_divide(1, fact)
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/numpy/lib/function_base.py:2480: RuntimeWarning: invalid value encountered in multiply
+  c *= np.true_divide(1, fact)
+[info] [2021-01-15 11:50:49.502762] pandas.DataFrame.to_clipboard
+[info] [2021-01-15 11:50:49.509879] pandas.DataFrame.lt
+[info] [2021-01-15 11:50:49.522781] pandas.DataFrame.as_matrix
+[info] [2021-01-15 11:50:49.523620] pandas.DataFrame.align
+[info] [2021-01-15 11:50:49.536516] pandas.DataFrame.hist
+[info] [2021-01-15 11:50:49.584507] pandas.DataFrame.drop_duplicates
+[info] [2021-01-15 11:50:49.620766] pandas.DataFrame.duplicated
+[info] [2021-01-15 11:50:49.659926] pandas.DataFrame.agg
+[info] [2021-01-15 11:50:49.743744] pandas.DataFrame.sparse.to_coo
+[info] [2021-01-15 11:50:49.752418] pandas.DataFrame.corr
+[info] [2021-01-15 11:50:49.766686] pandas.DataFrame.consolidate
+[info] [2021-01-15 11:50:49.774918] pandas.DataFrame.melt
+[info] [2021-01-15 11:50:49.784104] pandas.DataFrame.gt
+[info] [2021-01-15 11:50:49.799294] pandas.DataFrame.to_sql
+[info] [2021-01-15 11:50:49.856354] pandas.DataFrame.plot.hist
+[info] [2021-01-15 11:50:50.933919] pandas.DataFrame.ffill
+[info] [2021-01-15 11:50:50.946747] pandas.DataFrame.equals
+[info] [2021-01-15 11:50:50.961225] pandas.DataFrame.pivot_table
+[info] [2021-01-15 11:50:50.969326] pandas.DataFrame.pivot
+[info] [2021-01-15 11:50:50.976814] pandas.DataFrame.add_suffix
+[info] [2021-01-15 11:50:50.988417] pandas.DataFrame.to_stata
+[info] [2021-01-15 11:50:51.001278] pandas.DataFrame.cummin
+[info] [2021-01-15 11:50:51.013310] pandas.DataFrame.std
+[info] [2021-01-15 11:50:51.026022] pandas.DataFrame.update
+[info] [2021-01-15 11:50:51.039046] pandas.DataFrame.filter
+[info] [2021-01-15 11:50:51.039875] pandas.DataFrame.slice_shift
+[info] [2021-01-15 11:50:51.047132] pandas.DataFrame.notnull
+[info] [2021-01-15 11:50:51.054393] pandas.DataFrame.transform
+[info] [2021-01-15 11:50:51.097163] pandas.DataFrame.to_dict
+[info] [2021-01-15 11:50:51.105045] pandas.DataFrame.insert
+[info] [2021-01-15 11:50:51.490166] pandas.DataFrame.sample
+[info] [2021-01-15 11:50:51.511620] pandas.DataFrame.var
+[info] [2021-01-15 11:50:51.523490] pandas.DataFrame.ftypes
+[info] [2021-01-15 11:50:51.524490] pandas.DataFrame.tz_convert
+[info] [2021-01-15 11:50:51.539063] pandas.DataFrame.to_csv
+[info] [2021-01-15 11:50:51.546797] pandas.DataFrame.sem
+[info] [2021-01-15 11:50:51.562829] pandas.DataFrame.to_gbq
+[info] [2021-01-15 11:50:51.576750] pandas.DataFrame.merge
+[info] [2021-01-15 11:50:51.591028] pandas.DataFrame.bool
+[info] [2021-01-15 11:50:51.599132] pandas.DataFrame.radd
+[info] [2021-01-15 11:50:51.612506] pandas.DataFrame.mod
+[info] [2021-01-15 11:50:51.626907] pandas.DataFrame.resample
+[info] [2021-01-15 11:50:51.638004] pandas.DataFrame.to_html
+[info] [2021-01-15 11:50:51.646843] pandas.DataFrame.plot.barh
+[info] [2021-01-15 11:50:51.655305] pandas.DataFrame.abs
+[info] [2021-01-15 11:50:51.663399] pandas.DataFrame.combine
+[info] [2021-01-15 11:50:51.699296] pandas.DataFrame.ne
+[info] [2021-01-15 11:50:51.712859] pandas.DataFrame.divide
+[info] [2021-01-15 11:50:51.727046] pandas.DataFrame.plot.pie
+[info] [2021-01-15 11:50:51.740848] pandas.DataFrame.load
+[info] [2021-01-15 11:50:51.747637] pandas.DataFrame.pct_change
+[info] [2021-01-15 11:50:51.765122] pandas.DataFrame.to_excel
+[info] [2021-01-15 11:50:51.779760] pandas.DataFrame.aggregate
+[info] [2021-01-15 11:50:51.859947] pandas.DataFrame.columns
+[info] [2021-01-15 11:50:51.868049] pandas.DataFrame.rdiv
+[info] [2021-01-15 11:50:51.880952] pandas.DataFrame.dtypes
+[info] [2021-01-15 11:50:51.888847] pandas.DataFrame.combineAdd
+[info] [2021-01-15 11:50:51.902690] pandas.DataFrame.index
+[info] [2021-01-15 11:50:51.910202] pandas.DataFrame.describe
+[info] [2021-01-15 11:50:51.966885] pandas.DataFrame.ix
+[info] [2021-01-15 11:50:51.973989] pandas.DataFrame.corrwith
+[info] [2021-01-15 11:50:52.005218] pandas.DataFrame.nsmallest
+[info] [2021-01-15 11:50:52.057763] pandas.DataFrame.icol
+[info] [2021-01-15 11:50:52.070663] pandas.DataFrame.rsub
+[info] [2021-01-15 11:50:52.083402] pandas.DataFrame.ewm
+[info] [2021-01-15 11:50:52.091345] pandas.DataFrame.convert_dtypes
+[info] [2021-01-15 11:50:52.092142] pandas.DataFrame.get_ftype_counts
+[info] [2021-01-15 11:50:52.098988] pandas.DataFrame.pow
+[info] [2021-01-15 11:50:52.110666] pandas.DataFrame.values
+[info] [2021-01-15 11:50:52.117459] pandas.DataFrame.loc
+[info] [2021-01-15 11:50:52.124687] pandas.DataFrame.add_prefix
+[info] [2021-01-15 11:50:52.134556] pandas.DataFrame.diff
+[info] [2021-01-15 11:50:52.143777] pandas.DataFrame
+[info] [2021-01-15 11:50:52.144664] pandas.DataFrame.from_dict
+[info] [2021-01-15 11:50:52.156834] pandas.DataFrame.cummax
+[info] [2021-01-15 11:50:52.167837] pandas.DataFrame.reindex_axis
+[info] [2021-01-15 11:50:52.179597] pandas.DataFrame.explode
+[info] [2021-01-15 11:50:52.213579] pandas.DataFrame.count
+[info] [2021-01-15 11:50:52.387734] pandas.DataFrame.from_csv
+[info] [2021-01-15 11:50:52.401770] pandas.DataFrame.swaplevel
+[info] [2021-01-15 11:50:52.409389] pandas.DataFrame.rpow
+[info] [2021-01-15 11:50:52.424339] pandas.DataFrame.convert_objects
+[info] [2021-01-15 11:50:52.432374] pandas.DataFrame.to_parquet
+[info] [2021-01-15 11:50:52.445899] pandas.DataFrame.floordiv
+[info] [2021-01-15 11:50:52.460244] pandas.DataFrame.reindex
+[info] [2021-01-15 11:50:52.468301] pandas.DataFrame.to_hdf
+[info] [2021-01-15 11:50:52.715147] pandas.DataFrame.nunique
+[info] [2021-01-15 11:50:52.731249] pandas.DataFrame.ndim
+[info] [2021-01-15 11:50:52.739096] pandas.DataFrame.value_counts
+[info] [2021-01-15 11:50:52.746620] pandas.DataFrame.bfill
+[info] [2021-01-15 11:50:52.759904] pandas.DataFrame.T
+[info] [2021-01-15 11:50:52.768153] pandas.DataFrame.add
+[info] [2021-01-15 11:50:52.781813] pandas.DataFrame.asfreq
+[info] [2021-01-15 11:50:52.796404] pandas.DataFrame.iterrows
+[info] [2021-01-15 11:50:52.804056] pandas.DataFrame.applymap
+[info] [2021-01-15 11:50:52.810884] pandas.DataFrame.items
+[info] [2021-01-15 11:50:52.819062] pandas.DataFrame.rfloordiv
+[info] [2021-01-15 11:50:52.833924] pandas.DataFrame.squeeze
+[info] [2021-01-15 11:50:52.842060] pandas.DataFrame.tshift
+/home/soar/anaconda3/envs/soar/lib/python3.8/site-packages/pandas/core/groupby/groupby.py:806: FutureWarning: tshift is deprecated and will be removed in a future version. Please use shift instead.
+  return f(x, *args, **kwargs)
+[info] [2021-01-15 11:50:52.853906] pandas.DataFrame.clip
+[info] [2021-01-15 11:50:52.862405] pandas.DataFrame.keys
+[info] [2021-01-15 11:50:52.870670] pandas.DataFrame.iloc
+[info] [2021-01-15 11:50:52.878655] pandas.DataFrame.to_xarray
+[info] [2021-01-15 11:50:52.887390] pandas.DataFrame.select_dtypes
+[info] [2021-01-15 11:50:52.895810] pandas.DataFrame.apply
+[info] [2021-01-15 11:50:52.931189] pandas.DataFrame.le
+[info] [2021-01-15 11:50:52.944606] pandas.DataFrame.fillna
+[info] [2021-01-15 11:50:52.954488] pandas.DataFrame.mul
+[info] [2021-01-15 11:50:52.966818] pandas.DataFrame.itertuples
+[info] [2021-01-15 11:50:52.973859] pandas.DataFrame.median
+[info] [2021-01-15 11:50:53.193328] pandas.DataFrame.rolling
+[info] [2021-01-15 11:50:53.223005] pandas.DataFrame.get_dtype_counts
+[info] [2021-01-15 11:50:53.234092] pandas.DataFrame.idxmax
+[info] [2021-01-15 11:50:53.246306] pandas.DataFrame.isnull
+[info] [2021-01-15 11:50:53.254138] pandas.DataFrame.to_sparse
+[info] [2021-01-15 11:50:53.263663] pandas.DataFrame.get_values
+[info] [2021-01-15 11:50:53.272087] pandas.DataFrame.to_dense
+[info] [2021-01-15 11:50:53.278653] pandas.DataFrame.shift
+[info] [2021-01-15 11:50:53.289738] pandas.DataFrame.rank
+[info] [2021-01-15 11:50:53.304119] pandas.DataFrame.sparse.to_dense
+[info] [2021-01-15 11:50:53.311252] pandas.DataFrame.prod
+[info] [2021-01-15 11:50:53.322263] pandas.DataFrame.iteritems
+[info] [2021-01-15 11:50:53.331876] pandas.DataFrame.info
+[info] [2021-01-15 11:50:53.339218] pandas.DataFrame.sparse
+[info] [2021-01-15 11:50:53.345666] pandas.DataFrame.sort_values
+[info] [2021-01-15 11:50:54.406248] pandas.DataFrame.__iter__
+[info] [2021-01-15 11:50:54.417323] pandas.DataFrame.copy
+[info] [2021-01-15 11:50:54.425786] pandas.DataFrame.mean
+[info] [2021-01-15 11:50:54.652096] pandas.DataFrame.timetuple
+[info] [2021-01-15 11:50:54.660193] pandas.DataFrame.sparse.from_spmatrix
+[info] [2021-01-15 11:50:54.673861] pandas.DataFrame.rtruediv
+[info] [2021-01-15 11:50:54.687848] pandas.DataFrame.div
+[info] [2021-01-15 11:50:54.705133] pandas.DataFrame.sparse.density
+[info] [2021-01-15 11:50:54.706145] pandas.DataFrame.tail
+[info] [2021-01-15 11:50:54.717472] pandas.DataFrame.plot.density
+[info] [2021-01-15 11:50:54.718876] pandas.DataFrame.kurt
+[info] [2021-01-15 11:50:54.727421] pandas.DataFrame.first_valid_index
+[info] [2021-01-15 11:50:54.737128] pandas.DataFrame.sort_index
+[info] [2021-01-15 11:50:54.745394] pandas.DataFrame.blocks
+[info] [2021-01-15 11:50:54.755073] pandas.DataFrame.set_axis
+[info] [2021-01-15 11:50:54.770418] pandas.DataFrame.rmul
+[info] [2021-01-15 11:50:54.784627] pandas.DataFrame.sub
+[info] [2021-01-15 11:50:54.800917] pandas.DataFrame.dot
+[info] [2021-01-15 11:50:54.815683] pandas.DataFrame.swapaxes
+[info] [2021-01-15 11:50:54.870570] pandas.DataFrame.to_string
+[info] [2021-01-15 11:50:55.129157] pandas.DataFrame.to_pickle
+[info] [2021-01-15 11:50:55.143696] pandas.DataFrame.get_value
+[info] [2021-01-15 11:50:55.199904] pandas.DataFrame.to_timestamp
+[info] [2021-01-15 11:50:55.207800] pandas.DataFrame.idxmin
+[info] [2021-01-15 11:50:55.222273] pandas.DataFrame.from_items
+[info] [2021-01-15 11:50:55.235731] pandas.DataFrame.empty
+[info] [2021-01-15 11:50:55.243659] pandas.DataFrame.to_latex
+[info] [2021-01-15 11:50:55.251848] pandas.DataFrame.clip_lower
+[info] [2021-01-15 11:50:55.266055] pandas.DataFrame.shape
+[info] [2021-01-15 11:50:55.274246] pandas.DataFrame.compound
+[info] [2021-01-15 11:50:55.282366] pandas.DataFrame.to_msgpack
+[info] [2021-01-15 11:50:55.290811] pandas.DataFrame.truediv
+[info] [2021-01-15 11:50:55.304755] pandas.DataFrame.plot
+[info] [2021-01-15 11:50:55.342456] pandas.DataFrame.iterkv
+[info] [2021-01-15 11:50:55.380259] pandas.DataFrame.iget_value
+[info] [2021-01-15 11:50:55.437491] pandas.DataFrame.set_index
+[info] [2021-01-15 11:50:55.452993] pandas.DataFrame.product
+[info] [2021-01-15 11:50:55.462373] pandas.DataFrame.max
+[info] [2021-01-15 11:50:56.124046] pandas.DataFrame.replace
+[info] [2021-01-15 11:50:56.133011] pandas.DataFrame.clip_upper
+[info] [2021-01-15 11:50:56.146896] pandas.DataFrame.reset_index
+[info] [2021-01-15 11:50:56.184887] pandas.DataFrame.take
+[info] [2021-01-15 11:50:56.219286] pandas.DataFrame.last_valid_index
+[info] [2021-01-15 11:50:56.228233] pandas.DataFrame.cumsum
+[info] [2021-01-15 11:50:56.241053] pandas.DataFrame.set_value
+[info] [2021-01-15 11:50:56.626985] pandas.DataFrame.attrs
+[info] [2021-01-15 11:50:56.636871] pandas.DataFrame.mad
+[info] [2021-01-15 11:50:56.659763] pandas.DataFrame.rmod
+[info] [2021-01-15 11:50:56.675101] pandas.DataFrame.unstack
+[info] [2021-01-15 11:50:56.685034] pandas.DataFrame.dropna
+[info] [2021-01-15 11:50:56.693332] pandas.DataFrame.min
+[info] [2021-01-15 11:50:57.346752] pandas.DataFrame.cumprod
+[info] [2021-01-15 11:50:57.361784] pandas.DataFrame.reorder_levels
+[info] [2021-01-15 11:50:57.376033] pandas.DataFrame.to_markdown
+[info] [2021-01-15 11:50:57.387636] pandas.DataFrame.to_feather
+[info] [2021-01-15 11:50:57.401136] pandas.DataFrame.join
+[info] [2021-01-15 11:50:57.414658] pandas.DataFrame.drop
+[info] [2021-01-15 11:50:57.422433] pandas.DataFrame.transpose
+[info] [2021-01-15 11:50:57.433412] pandas.DataFrame.pad
+[info] [2021-01-15 11:50:57.446376] pandas.DataFrame.ge
+[info] [2021-01-15 11:50:57.459762] pandas.DataFrame.plot.kde
+[info] [2021-01-15 11:50:57.467485] pandas.DataFrame.backfill
+[info] [2021-01-15 11:50:57.479844] pandas.DataFrame.rename_axis
+[info] [2021-01-15 11:50:57.488099] pandas.DataFrame.get
+[info] [2021-01-15 11:50:57.501490] pandas.DataFrame.size
+[info] [2021-01-15 11:50:57.513789] Success!
+[info] [2021-01-15 11:50:57.513911] Avg Rank 77.66666666666667
+[info] [2021-01-15 11:50:57.514078] Synthesis time: 12.306020259857178
+[info] [2021-01-15 11:50:57.514150] lambda x: x.query(expr='Exited == 1')
+[info] [2021-01-15 11:50:57.514150] lambda x: x.groupby(by=['Gender'])
+[info] [2021-01-15 11:50:57.514150] lambda x: x.size()
+R[write to console]: Warning message:
+
+R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+R[write to console]: 
+ 
+R[write to console]:  library ‘/usr/lib/R/site-library’ contains no packages
+

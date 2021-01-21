@@ -1,0 +1,10 @@
+date_received,product,sub_product,issue,sub_issue,consumer_complaint_narrative,company_public_response,company,state,zipcode,tags,consumer_consent_provided,submitted_via,date_sent_to_company,company_response_to_consumer,timely_response,consumer_disputed?,complaint_id
+08/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,CA,95993,,,Referral,09/03/2013,Closed with explanation,Yes,Yes,511074
+08/30/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,CA,91104,,,Referral,09/03/2013,Closed with explanation,Yes,Yes,511080
+08/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Wells Fargo & Company,NY,11764,,,Postal mail,09/18/2013,Closed with explanation,Yes,No,510473
+08/30/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions Inc.",MD,21402,,,Email,08/30/2013,Closed with explanation,Yes,Yes,510326
+08/30/2013,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,Resurgent Capital Services L.P.,GA,30106,,,Web,08/30/2013,Closed with explanation,Yes,Yes,511067
+08/30/2013,Credit card,,Application processing delay,,,,Capital One,NY,12206,,,Phone,09/03/2013,Closed with explanation,Yes,Yes,510098
+08/30/2013,Credit card,,Credit line increase/decrease,,,,Wells Fargo & Company,AZ,85730,,,Postal mail,09/05/2013,Closed with explanation,Yes,No,511062
+08/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,IL,60660,,,Referral,09/04/2013,Closed with explanation,Yes,No,511116
+08/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,GA,30016,,,Referral,09/04/2013,Closed with explanation,Yes,No,511091

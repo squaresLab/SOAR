@@ -1,0 +1,2 @@
+file_path,api_count,code
+data/checkDirs.py,0,"b""import os.path\n\n\ncheckDirs = ['words/', 'words/a01/a01-000u/']\ncheckFiles = ['words.txt', 'test.png', 'words/a01/a01-000u/a01-000u-00-00.png']\n\n\nfor f in checkDirs:\n\tif os.path.isdir(f):\n\t\tprint('[OK]', f)\n\telse:\n\t\tprint('[ERR]', f)\n\n\nfor f in checkFiles:\n\tif os.path.isfile(f):\n\t\tprint('[OK]', f)\n\telse:\n\t\tprint('[ERR]', f)\n"""
