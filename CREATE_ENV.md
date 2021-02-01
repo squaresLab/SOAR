@@ -1,7 +1,7 @@
 
 ### Download and install anaconda
-wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
-sha256sum Anaconda3-2020.11-Linux-x86_64.sh
+    wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+    sha256sum Anaconda3-2020.11-Linux-x86_64.sh
 
 ### Create a conda environment
 
