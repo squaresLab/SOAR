@@ -1,7 +1,7 @@
 # Synthesis for Open-Source API Refactoring (SOAR)
 
 The artifact package contains a virtual machine (publicly available at
-http://sat.inesc-id.pt/~soar) that allows anyone to replicate the results
+https://zenodo.org/record/4452730) that allows anyone to replicate the results
 presented in the paper. Specifically, the virtual machine has SOAR’s
 source code (also publicly available at https://github.com/danieltrt/SOAR/) and
 the dependencies necessary to execute it. With this submission, we seek to
