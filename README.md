@@ -1,30 +1,11 @@
 # Synthesis for Open-Source API Refactoring (SOAR)
 
-The artifact package contains a virtual machine (publicly available at
-https://zenodo.org/record/4452730) that allows anyone to replicate the results
-presented in the paper. Specifically, the virtual machine has SOAR’s
-source code (also publicly available at https://github.com/danieltrt/SOAR/) and
-the dependencies necessary to execute it. With this submission, we seek to
-claim an ”available” badge.
+
+## How to set up your own environment:
+
+https://colab.research.google.com/drive/1b9Ipn4nya2Oxi9RgivomS1QLbyeu_nTU
 
 
-This virtual machine contains all requirements to run SOAR. The virtual
-machine also includes results with a timeout of 1200 seconds and
-12GB of RAM in this environment. The results can be found in 
-`/home/soar/Documents/SOAR/logs`.
-
-## Instructions 
-
-Start by importing the virtual machine to Oracle VirtualBox. The machine
-is configured with 2 CPUs and 12GB of RAM. You can adjust these parameters
-accordingly, but the minimum recommended is 2 CPUs and 8GB of RAM.
-
-Inside the virtual machine, you will find all scripts and benchmarks presented
-in the SOAR paper. Details on where to find the benchmarks and how
-to reproduce all results (including plots and tables) are presented below.
-
-Instructions to install SOAR in your environment can be found on the GitHub
-repository (https://github.com/danieltrt/SOAR/).
 
 
 ## Benchmarks:
